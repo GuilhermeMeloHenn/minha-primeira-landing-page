@@ -1,2 +1,2 @@
-# Minha primeira landing-page
-Este é o projeto de desenvolvimento do módulo base de uma landing page
+# Landing Page para uma escola
+Este é o projeto de desenvolvimento de uma landing page para uma escola
